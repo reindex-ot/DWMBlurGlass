@@ -44,7 +44,7 @@
 	<preview>プレビュー</preview>
 	<sampletitle>ウィンドウ タイトルの例 (アクティブ)</sampletitle>
 	<blurmethod>ぼかしの方式:</blurmethod>
-	<methodcustom>[推奨] CVisual (DWM) と Windows.UI.Composition (dcomp) \nによって記述されたカスタムぼかし実装を使用してカスタム背景効果を実現します。\nほとんどのパラメーターをカスタマイズできます。最高の効率だけでなく、見た目や安定性も向上します。\nただし互換性はそれほど安定していません。Windows の主要な更新後に破綻する可能性があり、その場合は次のリリースを待つ必要があります。</methodcustom>
+	<methodcustom>[推奨] CVisual (DWM) と Windows.UI.Composition (dcomp) によって記述されたカスタムぼかし実装を使用してカスタム背景効果を実現します。\nほとんどのパラメーターをカスタマイズできます。最高の効率だけでなく、見た目や安定性も向上します。\nただし互換性はそれほど安定していません。Windows の主要な更新後に破綻する可能性があり、その場合は次のリリースを待つ必要があります。</methodcustom>
 	<methodaccent>[非推奨] ぼかし効果を適用するために\nDWM 内部の AccentBlurBehind クラスを使用します。\n一部のパラメーターをカスタマイズできますが、非効率で安定性も低下します。\nほとんどのシステム上で正常に動作します \n(通常はシステムの更新によって動作が損なわれることはありません)。</methodaccent>
 	<methoddwmapi>Windows 11 でドキュメントに記載されている DWMAPI を使用して\n限定的なシステム バックドロップ効果\n(アクリル効果やマイカ効果など) を適用できます。\nこれらのパラメーターをカスタマイズすることはできませんが\n高効率で安定性も優れています。\nただし、一部のプログラムの外観が崩れる可能性があり、\nWindows 11 22H2 以降でのみ使用できます。</methoddwmapi>
 	<effecttype>効果のタイプ:</effecttype>
