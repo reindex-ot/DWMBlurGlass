@@ -54,8 +54,8 @@
 	<blurBalance>ぼかしのバランス:</blurBalance>
 	<afterglowBalance>残光のバランス:</afterglowBalance>
 	<blurQuality>ぼかしのレンダリング品質:</blurQuality>
-	<blurQualitySpeed>速度の優先度</blurQualitySpeed>
-	<blurQualityQuality>品質の優先度</blurQualityQuality>
+	<blurQualitySpeed>速度を優先</blurQualitySpeed>
+	<blurQualityQuality>品質を優先</blurQualityQuality>
 	<miscsettings>その他:</miscsettings>
 	<enablecrossfade>クロスフェード アニメーション効果を有効化する</enablecrossfade>
 	<crossfadeTime>アニメーションの長さ:</crossfadeTime>
