@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <lang local="ja-JP" author="KimChampil, FreshP-0325, Re*Index.(ot_inc)">
 	<inituifail0>MiaoUI ライブラリの初期化に失敗しました！ エラーコード:</inituifail0>
 	<inituifail1>ウィンドウ コンテキストの作成に失敗しました！</inituifail1>
@@ -85,7 +85,7 @@
 	<cancel>キャンセル</cancel>
 	<syminvalid>シンボル ファイルが無効です。DWMBlurGlass の「シンボル」ページに移動して、新しいシンボル ファイルをダウンロードしてください。</syminvalid>
 	<autodownloadsymbol>シンボル ファイルの自動ダウンロード</autodownloadsymbol>
-	<autodownloadsymboltip>「シンボル ファイルの自動ダウンロード」が有効化されている場合、DWMBlurGlass の起動時に無効なシンボルを検出するとシンボルファイルを自動的にダウンロードされます。\n\n注意: システムを頻繁に更新することは、ソフトウェアがソフトウェアに頻繁に無効化される可能性があるため、推奨しません。</autodownloadsymboltip>
+	<autodownloadsymboltip>「シンボル ファイルの自動ダウンロード」が有効化されている場合、DWMBlurGlass の起動時に無効なシンボルを検出するとシンボルファイルを自動的にダウンロードされます。\n\n注意: システムを頻繁に更新することは、ソフトウェアがソフトウェアを頻繁に無効化する可能性があるため、推奨しません。</autodownloadsymboltip>
 	<configfile>構成ファイル</configfile>
 	<import>インポート</import>
 	<export>エクスポート</export>
